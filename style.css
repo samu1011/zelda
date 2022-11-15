@@ -1,0 +1,9 @@
+    body{
+        text-align: center;
+    }
+    .img-fluid{
+        width:500px;
+    }
+    #video{
+        width:100%;
+    }
